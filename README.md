@@ -1,3 +1,6 @@
+PhD at IIITD
+Research Interests: Ethical AI, Semantic Web Technologies, Knowledge Representation, Neurosymbolic Techniques, Ethics, AI Philosophy
+
 ### Highlights
 - Ph.D. (Computer Science Engineering) scholar at IIITD, working on developing a framework for ethical AI using a neuro-symbolic approach.
 - Research interests include semantic web technologies, ontology development, knowledge graphs and representation, neuro-symbolic techniques, AI ethics, and ethical philosophy.
