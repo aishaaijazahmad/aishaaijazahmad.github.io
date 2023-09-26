@@ -19,7 +19,7 @@
 - Jamia Millia Islamia
 
 ### Research Projects
-Ongoing:
+<i>Ongoing:</i>
 #### APPL-E: An Applied Ethics Ontology to capture Ethical Theory and Contextual Information in various Domains
 An Ontology to capture various abstract concepts in the field of ethical philosophy as entities and relationships.
 
@@ -29,7 +29,7 @@ This dataset aims to document and annotate real-world cases where some moral rea
 #### A Survey on Techniques to Digitize Ethics and Ethical Decision-making
 This survey paper looks at the various techniques used to capture ethical information in the computing space, and also the use of the latest technologies to facilitate ethical decision-making.
 
-Completed: 
+<i>Completed: </i>
 #### Opacity, Transparency, and the Ethics of Affective Computing
 Co-authored with M. Kumar, O. Chattar, J. Shukla, and R. Mutharaju. Published at the IEEE Transactions on Affective Computing, Special Issue on Ethics in Affective Computing 2023.
 
