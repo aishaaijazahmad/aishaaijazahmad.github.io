@@ -1,4 +1,4 @@
-# PhD at IIITD
+# PhD Scholar at IIITD
 #### Research Interests: Ethical AI, Semantic Web Technologies, Knowledge Representation, Neurosymbolic Techniques, Ethics, AI Philosophy
 
 ## Highlights
@@ -23,6 +23,7 @@
 
 ## Research Projects
 ### _Ongoing:_
+
 #### APPL-E: An Applied Ethics Ontology to capture Ethical Theory and Contextual Information in various Domains
 An Ontology to capture various abstract concepts in the field of ethical philosophy as entities and relationships.
 
@@ -33,6 +34,7 @@ This dataset aims to document and annotate real-world cases where some moral rea
 This survey paper looks at the various techniques used to capture ethical information in the computing space, and also the use of the latest technologies to facilitate ethical decision-making.
 
 ### _Completed:_
+
 #### Opacity, Transparency, and the Ethics of Affective Computing
 Co-authored with M. Kumar, O. Chattar, J. Shukla, and R. Mutharaju. Published at the IEEE Transactions on Affective Computing, Special Issue on Ethics in Affective Computing 2023.
 
@@ -45,6 +47,7 @@ Co-authored with M. Ahmad, S. Ansari, M. Siddiqui, and S. Masood. Published in I
 ## Work Experience
 ### _Full-time:_
 - Data Analyst VLCC Beauty and Wellness (GCC HQ), Dubai, UAE. (May-Oct 2019)
+
 ### _Freelance:_
 - Research Assistant associated with the University of Bahrain, Royal University of Women, and Arab Gulf University. (Feb 2021-July 2021)
 - Private Instructor - Subjects include Data Science, High-Performance Computing, Big Data Analytics, Data Mining, and Research Methods. (Dec 2020 - Sept 2021)
