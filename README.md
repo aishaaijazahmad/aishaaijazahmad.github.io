@@ -1,13 +1,13 @@
-PhD at IIITD
-Research Interests: Ethical AI, Semantic Web Technologies, Knowledge Representation, Neurosymbolic Techniques, Ethics, AI Philosophy
+# PhD at IIITD
+#### Research Interests: Ethical AI, Semantic Web Technologies, Knowledge Representation, Neurosymbolic Techniques, Ethics, AI Philosophy
 
-### Highlights
+## Highlights
 - Ph.D. (Computer Science Engineering) scholar at IIITD, working on developing a framework for ethical AI using a neuro-symbolic approach.
 - Research interests include semantic web technologies, ontology development, knowledge graphs and representation, neuro-symbolic techniques, AI ethics, and ethical philosophy.
 - Three years of research and industry experience in data science, analytics, and management.
  -Future plans include the development of an ontology that is able to capture ethical theory using entities and relationships. These can help build a discrete structure that may support dilemma resolution in applied ethics. Further work includes real-world use case modeling for evaluation of the ontology. In addition to this, the development of rules for important ethical principles will help in reasoning and querying for analyzing ethics in action-based scenarios.
 
-### Education
+## Education
 #### PhD in Computer Science Engineering
 - Thesis Title: Ethical Decision-making through Neurosymbolic Techniques
 - CGPA: 8.54/10
@@ -21,8 +21,8 @@ Research Interests: Ethical AI, Semantic Web Technologies, Knowledge Representat
 - CGPA 8.82/10
 - Jamia Millia Islamia
 
-### Research Projects
-<i>Ongoing:</i>
+## Research Projects
+### _Ongoing:_
 #### APPL-E: An Applied Ethics Ontology to capture Ethical Theory and Contextual Information in various Domains
 An Ontology to capture various abstract concepts in the field of ethical philosophy as entities and relationships.
 
@@ -32,7 +32,7 @@ This dataset aims to document and annotate real-world cases where some moral rea
 #### A Survey on Techniques to Digitize Ethics and Ethical Decision-making
 This survey paper looks at the various techniques used to capture ethical information in the computing space, and also the use of the latest technologies to facilitate ethical decision-making.
 
-<i>Completed: </i>
+### _Completed:_
 #### Opacity, Transparency, and the Ethics of Affective Computing
 Co-authored with M. Kumar, O. Chattar, J. Shukla, and R. Mutharaju. Published at the IEEE Transactions on Affective Computing, Special Issue on Ethics in Affective Computing 2023.
 
@@ -42,14 +42,21 @@ Masters Thesis under the supervision of Dr. Hind Zantout. Heriot-Watt University
 #### Cryptanalysis of Image Cryptosystem Using Synchronized 4D Lorenz Stenflo Hyper-chaotic Systems
 Co-authored with M. Ahmad, S. Ansari, M. Siddiqui, and S. Masood. Published in Information and Decision Sciences, AISC, Vol. 701, Springer, 2018.
 
-### Work Experience
-#### Full-time
--Data Analyst VLCC Beauty and Wellness (GCC HQ), Dubai, UAE. (May-Oct 2019)
-#### Freelance
--Research Assistant associated with the University of Bahrain, Royal University of Women, and Arab Gulf University. (Feb 2021-July 2021)
--Private Instructor - Subjects include Data Science, High-Performance Computing, Big Data Analytics, Data Mining, and Research Methods. (Dec 2020 - Sept 2021)
+## Work Experience
+### _Full-time:_
+- Data Analyst VLCC Beauty and Wellness (GCC HQ), Dubai, UAE. (May-Oct 2019)
+### _Freelance:_
+- Research Assistant associated with the University of Bahrain, Royal University of Women, and Arab Gulf University. (Feb 2021-July 2021)
+- Private Instructor - Subjects include Data Science, High-Performance Computing, Big Data Analytics, Data Mining, and Research Methods. (Dec 2020 - Sept 2021)
 
-### Certifications
+## Technical Skills
+- Software Development: Python, Java, R, C++, C, Prolog, C#, MATLAB
+- Semantic Web Technologies: Protege, SWRL
+- Database Management: Advanced MS Excel, MySQL
+- Business Intelligence Software: MS-Power BI
+- Quantitative Research: SPSS, Smart PLS (SEM)
+
+## Certifications
 - Understanding Research Methods, University of London
 - Using IBM SPSS for Research, Certified for IBM Business Analytics Software
 - Business Analytics Specialization, Rice University
@@ -58,7 +65,7 @@ Co-authored with M. Ahmad, S. Ansari, M. Siddiqui, and S. Masood. Published in I
 - Advanced Content and Social Tactics to Optimize SEO, University of California, Davis
 - Cyber Security and Ethical Hacking, Bytecode Academy
 
-### Community Service and Memberships
+## Community Service and Memberships
 - Volunteer at IEEE-Women in Engineering (IEEE-WIE)
 - Member, Bahrain Statistical Society (BSS)
 - Member, Computer Society of India (CSI-JMI Chapter)
