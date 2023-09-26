@@ -1,5 +1,5 @@
 title: Aisha Aijaz
-logo: /assets/aishaphoto.jpg
+logo: "/assets/aishaphoto.jpg"
 description: PhD Scholar at IIITD
 #show_downloads: true
 theme: jekyll-theme-minimal
