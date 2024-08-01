@@ -2,10 +2,10 @@
 #### Research Interests: Ethical AI, Semantic Web Technologies, Knowledge Representation, Neurosymbolic Techniques, Ethics, AI Philosophy
 
 ## Highlights
-- Ph.D. (Computer Science Engineering) scholar at IIITD, working on developing a framework for ethical AI using a neuro-symbolic approach.
-- Research interests include semantic web technologies, ontology development, knowledge graphs and representation, neuro-symbolic techniques, AI ethics, and ethical philosophy.
-- Three years of research and industry experience in data science, analytics, and management.
- -Future plans include the development of an ontology that is able to capture ethical theory using entities and relationships. These can help build a discrete structure that may support dilemma resolution in applied ethics. Further work includes real-world use case modeling for evaluation of the ontology. In addition to this, the development of rules for important ethical principles will help in reasoning and querying for analyzing ethics in action-based scenarios.
+- Ph.D. (Computer Science Engineering) scholar at IIITD, working on developing a framework for ethical AI using a neurosymbolic approach. Currently in the 3rd year of study, expecting to graduate in 2026. 
+- Research interests include ethical AI systems, semantic web technologies, ontology development, knowledge graphs and representation, neurosymbolic techniques, LLMs, NLP, and ethical philosophy.
+- Five years of research and industry experience in ethical AI systems, data science, and business analytics.
+- Research projects include the development of an ontology that is able to capture contextual information and applied ethics using explicit entities and relationships. These can help build a discrete structure which may support dilemma resolution in applied ethics via reasoning and inference. Further work includes real-world use case modeling for evaluation of the ontology and building an augmented dataset for neurosymbolic applications such as case-based reasoning to emulate casuistry leveraging LLMs. The development of rules in the form of an algorithm for ethics scoring based on important ethical principles may help in reasoning and querying to analyze ethics in action-based scenarios.
 
 ## Education
 #### PhD in Computer Science Engineering
@@ -24,8 +24,8 @@
 ## Research Projects
 ### _Ongoing:_
 
-#### APPL-E: An Applied Ethics Ontology to capture Ethical Theory and Contextual Information in various Domains
-An Ontology to capture various abstract concepts in the field of ethical philosophy as entities and relationships.
+#### ApplE: An Applied Ethics Ontology to capture Ethical Theory and Contextual Information
+An Ontology to capture various abstract concepts in the field of ethical philosophy as entities and relationships. See full [documentation](https://purl.org/appliedethicsontology/documentation) and [GitHub Repository](https://github.com/kracr/applied-ethics-ontology) for more information.
 
 #### A Dataset to Capture Ethical and Contextual Information about Real-world Cases with their Ethical Analysis
 This dataset aims to document and annotate real-world cases where some moral reasoning takes place. The features selected for this dataset are carefully curated to represent the most vital contextual information that can imply the morality of the act. Each act can be labeled as either a morally right, wrong, or grey action. Ethical theory is also considered as schools of thought and the ethical principles violated. This dataset may facilitate ethics research in the field of AI applications and also aid ML and symbolic techniques for dilemma resolution. 
