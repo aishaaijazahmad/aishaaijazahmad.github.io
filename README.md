@@ -27,6 +27,7 @@
 #### Ethics Fine-tuning in Transformer-based Models for Moral Dilemma Resolution, A. Aijaz, R. Mutharaju, M. Kumar.
 #### Value-Based Ontology Engineering (VBOE): A Methodology for Value Alignment in Ontology Development, S. Gulati, V. Aggarwal, R. Mutharaju, A. Aijaz. 
 #### Case-based Reasoning for Ethical Theory Application, R. Goel, A. Batra, A. Aijaz, R. Mutharaju.
+#### A Survey on Techniques to Discretize Ethical Decision-making, A. Aijaz, R. Mutharaju.
 
 ### _Completed:_
 
@@ -43,17 +44,11 @@
 #### ApplE: An Applied Ethics Ontology to capture Ethical Theory and Contextual Information
 An Ontology to capture various abstract concepts in the field of ethical philosophy as entities and relationships. See full [documentation](https://purl.org/appliedethicsontology/documentation) and [GitHub Repository](https://github.com/kracr/applied-ethics-ontology) for more information. [arXiv](https://arxiv.org/abs/2502.05110).
 
-#### A Survey on Techniques to Digitize Ethics and Ethical Decision-making
-This survey paper looks at the various techniques used to capture ethical information in the computing space, and also the use of the latest technologies to facilitate ethical decision-making.
+#### Opacity, Transparency, and the Ethics of Affective Computing, M. Kumar, A. Aijaz, O. Chattar, J. Shukla, and R. Mutharaju. (Published at the IEEE Transactions on Affective Computing, Special Issue on Ethics in Affective Computing 2023).
 
-#### Opacity, Transparency, and the Ethics of Affective Computing
-Co-authored with M. Kumar, O. Chattar, J. Shukla, and R. Mutharaju. (Published at the IEEE Transactions on Affective Computing, Special Issue on Ethics in Affective Computing 2023).
+#### A Comparative Study on Approaches to OCR for Varied Scripts, Master's Thesis under the supervision of Dr. Hind Zantout. Heriot-Watt University, 2019.
 
-#### A Comparative Study on Approaches to OCR for Varied Scripts
-Master's Thesis under the supervision of Dr. Hind Zantout. Heriot-Watt University, 2019.
-
-#### Cryptanalysis of Image Cryptosystem Using Synchronized 4D Lorenz Stenflo Hyper-chaotic Systems
-Co-authored with M. Ahmad, S. Ansari, M. Siddiqui, and S. Masood. Published in Information and Decision Sciences, AISC, Vol. 701, Springer, 2018.
+#### Cryptanalysis of Image Cryptosystem Using Synchronized 4D Lorenz Stenflo Hyper-chaotic Systems, M. Ahmad, A. Aijaz, S. Ansari, M. Siddiqui, and S. Masood. Published in Information and Decision Sciences, AISC, Vol. 701, Springer, 2018.
 
 ## Work Experience
 
