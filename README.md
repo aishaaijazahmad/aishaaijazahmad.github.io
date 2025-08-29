@@ -41,8 +41,7 @@
 
 #### An Ontology to Capture Contextual Information to Facilitate Ethical Decision-making in AI Systems, A. Aijaz, R. Mutharaju, M. Kumar, O. Chattar, J. Shukla, (Accepted at ACM IKDD CODS-COMAD, 2024).
 
-#### ApplE: An Applied Ethics Ontology to capture Ethical Theory and Contextual Information
-An Ontology to capture various abstract concepts in the field of ethical philosophy as entities and relationships. See full [documentation](https://purl.org/appliedethicsontology/documentation) and [GitHub Repository](https://github.com/kracr/applied-ethics-ontology) for more information. [arXiv](https://arxiv.org/abs/2502.05110).
+#### ApplE: An Applied Ethics Ontology to capture Ethical Theory and Contextual Information, A. Aijaz, R. Mutharaju, M. Kumar; See full [documentation](https://purl.org/appliedethicsontology/documentation) and [GitHub Repository](https://github.com/kracr/applied-ethics-ontology) for more information. [arXiv](https://arxiv.org/abs/2502.05110).
 
 #### Opacity, Transparency, and the Ethics of Affective Computing, M. Kumar, A. Aijaz, O. Chattar, J. Shukla, and R. Mutharaju. (Published at the IEEE Transactions on Affective Computing, Special Issue on Ethics in Affective Computing 2023).
 
