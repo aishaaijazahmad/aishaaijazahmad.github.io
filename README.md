@@ -33,21 +33,21 @@
 
 #### Expected Moral Shortfall for Ethical Competence in Decision-making Models, A. Aijaz, R. Mutharaju, M. Kumar, (under review at AAAI 2026).
 
-#### Moral Compass: A Data-Driven Benchmark for Ethical Cognition in AI, A. Aijaz, A. Batra, A. Bazaz, S. Srinivasan, R. Mutharaju, M, Kumar, (Accepted at IJCAI 2025).
+#### [Moral Compass: A Data-Driven Benchmark for Ethical Cognition in AI](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/9202.pdf), A. Aijaz, A. Batra, A. Bazaz, S. Srinivasan, R. Mutharaju, M, Kumar, (Accepted at IJCAI 2025).
 
 #### Contesting Artificial Moral Agents, A. Aijaz, (Accepted at the ACM CSCW 2024, Workshop on Contestability Along AI Value Chains).
 
-#### Bridging Ethics and AI: A Path to Moral Machines, A. Aijaz, (Accepted at AAAI/ACM AIES, 2024).
+#### [Bridging Ethics and AI: A Path to Moral Machines](https://ojs.aaai.org/index.php/AIES/article/view/31892), A. Aijaz, (Accepted at AAAI/ACM AIES, 2024).
 
-#### An Ontology to Capture Contextual Information to Facilitate Ethical Decision-making in AI Systems, A. Aijaz, R. Mutharaju, M. Kumar, O. Chattar, J. Shukla, (Accepted at ACM IKDD CODS-COMAD, 2024).
+#### [An Ontology to Capture Contextual Information to Facilitate Ethical Decision-making in AI Systems](https://dl.acm.org/doi/abs/10.1145/3632410.3632493), A. Aijaz, R. Mutharaju, M. Kumar, O. Chattar, J. Shukla, (Accepted at ACM IKDD CODS-COMAD, 2024).
 
-#### ApplE: An Applied Ethics Ontology to capture Ethical Theory and Contextual Information, A. Aijaz, R. Mutharaju, M. Kumar; See full [documentation](https://purl.org/appliedethicsontology/documentation) and [GitHub Repository](https://github.com/kracr/applied-ethics-ontology) for more information. [arXiv](https://arxiv.org/abs/2502.05110).
+#### [ApplE: An Applied Ethics Ontology to capture Ethical Theory and Contextual Information](https://arxiv.org/abs/2502.05110), A. Aijaz, R. Mutharaju, M. Kumar; See full [documentation](https://purl.org/appliedethicsontology/documentation) and [GitHub Repository](https://github.com/kracr/applied-ethics-ontology) for more information.
 
-#### Opacity, Transparency, and the Ethics of Affective Computing, M. Kumar, A. Aijaz, O. Chattar, J. Shukla, and R. Mutharaju. (Published at the IEEE Transactions on Affective Computing, Special Issue on Ethics in Affective Computing 2023).
+#### [Opacity, Transparency, and the Ethics of Affective Computing](https://ieeexplore.ieee.org/abstract/document/10132379/), M. Kumar, A. Aijaz, O. Chattar, J. Shukla, and R. Mutharaju. (Published at the IEEE Transactions on Affective Computing, Special Issue on Ethics in Affective Computing 2023).
 
-#### A Comparative Study on Approaches to OCR for Varied Scripts, Master's Thesis under the supervision of Dr. Hind Zantout. Heriot-Watt University, 2019.
+#### [A Comparative Study on Approaches to OCR for Varied Scripts](https://drive.google.com/file/d/1zOgZCDAiGmN2JRpIncwg42y_kV9B--88/view?usp=sharing), Master's Thesis under the supervision of Dr. Hind Zantout. Heriot-Watt University, 2019.
 
-#### Cryptanalysis of Image Cryptosystem Using Synchronized 4D Lorenz Stenflo Hyper-chaotic Systems, M. Ahmad, A. Aijaz, S. Ansari, M. Siddiqui, and S. Masood. Published in Information and Decision Sciences, AISC, Vol. 701, Springer, 2018.
+#### [Cryptanalysis of Image Cryptosystem Using Synchronized 4D Lorenz Stenflo Hyper-chaotic Systems](https://link.springer.com/chapter/10.1007/978-981-10-7563-6_38), M. Ahmad, A. Aijaz, S. Ansari, M. Siddiqui, and S. Masood. Published in Information and Decision Sciences, AISC, Vol. 701, Springer, 2018.
 
 ## Work Experience
 
