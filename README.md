@@ -1,11 +1,13 @@
 # PhD Scholar at IIITD
 #### Research Interests: Ethical AI, Semantic Web Technologies, Knowledge Representation, LLMs, Neurosymbolic Techniques, Ethical Reasoning, AI Philosophy
+#### [Curriculum Vitae](https://drive.google.com/file/d/1jYaJe_IXB60yU7yagGaQMfPdpMMoudsf/view?usp=sharing)
 
 ## Highlights
-- Ph.D. (Computer Science Engineering) scholar at IIITD, working on developing a framework for ethical reasoning in AI systems. Currently in 5th year of study, expecting to graduate early 2026. 
-- Research interests include ethical AI systems, semantic web technologies, ontology development, knowledge graphs and representation, neurosymbolic techniques, LLMs, NLP, and ethical philosophy.
-- Seven years of research and industry experience in ethical AI systems, data science, and business analytics.
-- Research projects include the development of an ontology that is able to capture contextual information and applied ethics using explicit entities and relationships. These can help build a discrete structure that may support dilemma resolution in applied ethics via reasoning and inference. Further work includes real-world use case modeling for evaluation of the ontology and building an augmented dataset for neurosymbolic applications, such as case-based reasoning to emulate casuistry, leveraging LLMs. The development of rules in the form of an algorithm for ethics scoring based on important ethical principles may help in reasoning and querying to analyze ethics in action-based scenarios.
+- Ph.D. (Computer Science Engineering) scholar at IIITD, working on developing a framework for ethical cognition in AI decision-making systems using a neurosymbolic approach. Currently in the 5th year of study, expecting to graduate early 2026.
+- Research interests include general cognition in AI systems, trustworthy and morally-aligned AI, semantic web technologies, ontology development, knowledge graphs and representation, neurosymbolic techniques, LLMs, NLP, general ML/AI, and applied and normative ethical philosophy.
+- Seven years of research, teaching, and industry experience in AI, data science, and data analytics.
+- Research projects include the development of an ontology with important relevant axioms that is able to capture contextual information and applied ethics using explicit entities and relationships. These can help build a discrete structure that may support dilemma resolution in applied ethics via logical reasoning and inference. Real-world use case modeling for evaluation of the ontology and building an augmented dataset for neurosymbolic applications like case-based reasoning to emulate casuistry, leveraging LLMs. The development of rules for an algorithm for ethics judgement based on important ethical principles developed for reasoning and querying to analyze ethics in action-based scenarios. The extrapolation of a financial risk-averse metric to avoid high negative utility outcomes for improved ethical competence in machine learning models which show results at par with models with only domain-based parametric classifications. An analysis of tradeoffs between higher ethical competence versus higher overall domain-specific performance has also been conducted, in addition to the consideration of other relevant factors.
+- Further work involves the extension of current proposed resources and methods for morally aligned and consistent LLMs to reduce abstraction in responses related to philosophical concepts. Additionally, the vision for this strand of research is to explore questions such as how moral knowledge can be represented probabilistically to model moral uncertainty, how learning algorithms may be used to preserve interpretability of moral decisions, and how high moral risk may be operationalized as a differentiable constraint when learning.
 
 ## Education
 #### PhD in Computer Science Engineering (Aug 2021 - Present)
@@ -31,7 +33,9 @@
 
 ### _Completed:_
 
-#### Expected Moral Shortfall for Ethical Competence in Decision-making Models, A. Aijaz, R. Mutharaju, M. Kumar, (under review at AAAI 2026).
+#### ApplE: An Applied Ethics Ontology for Autonomous Moral Decision-making, A. Aijaz, R. Mutharaju, M. Kumar, (Under review at JAIR, AI and Society Track).
+
+#### Expected Moral Shortfall for Ethical Competence in Decision-making Models, A. Aijaz, R. Mutharaju, M. Kumar.
 
 #### [Moral Compass: A Data-Driven Benchmark for Ethical Cognition in AI](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/9202.pdf), A. Aijaz, A. Batra, A. Bazaz, S. Srinivasan, R. Mutharaju, M, Kumar, (Accepted at IJCAI 2025).
 
@@ -73,6 +77,7 @@
 - Chanakya Fellow, iHub Anubhuti, 2021-2024.
 
 ## Research Service
+- Invited Reviewer: Data and Knowledge Engineering Journal and NeSy 2026.
 - PC Member: K-CAP 2025, NeSy 2025, ACM WWW 2025 (Demo Track and Short Paper Track). 
 - Reviewer: AAAI 2026, AAAI 2025, NLP4HR/EACL 2024, ICON 2022.
 - Sub-reviewer: WWW 2024, NeSy 2024, CIKM 2023, BDA 2023.
