@@ -1,6 +1,6 @@
 # PhD Scholar at IIITD
 #### Research Interests: Ethical AI, Semantic Web Technologies, Knowledge Representation, LLMs, Neurosymbolic Techniques, Ethical Reasoning, AI Philosophy
-#### [Curriculum Vitae](https://drive.google.com/file/d/1jYaJe_IXB60yU7yagGaQMfPdpMMoudsf/view?usp=sharing)
+#### [**_Curriculum Vitae_**](https://drive.google.com/file/d/1jYaJe_IXB60yU7yagGaQMfPdpMMoudsf/view?usp=sharing)
 
 ## Highlights
 - Ph.D. (Computer Science Engineering) scholar at IIITD, working on developing a framework for ethical cognition in AI decision-making systems using a neurosymbolic approach. Currently in the 5th year of study, expecting to graduate early 2026.
