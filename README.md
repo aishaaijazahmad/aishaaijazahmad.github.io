@@ -1,6 +1,7 @@
 # PhD Scholar at IIITD
 #### Research Interests: Ethical AI, Semantic Web Technologies, Knowledge Representation, LLMs, Neurosymbolic Techniques, Ethical Reasoning, AI Philosophy
-#### [**_Curriculum Vitae_**](https://drive.google.com/file/d/1jYaJe_IXB60yU7yagGaQMfPdpMMoudsf/view?usp=sharing)
+#### [**_Curriculum Vitae_**](https://drive.google.com/file/d/1p77ZJDGtjcnyLhe45DWcS0hNJ2NIhHAf/view?usp=sharing)
+#### [**_Google Scholar_**](https://scholar.google.co.in/citations?user=F8kvkfQAAAAJ&hl=en&oi=ao)
 
 ## Highlights
 - Ph.D. (Computer Science Engineering) scholar at IIITD, working on developing a framework for ethical cognition in AI decision-making systems using a neurosymbolic approach. Currently in the 5th year of study, expecting to graduate early 2026.
@@ -16,11 +17,11 @@
 - Indraprastha Institute of Information Technology, Delhi
 
 #### M.Sc. in Data Science
-- Qualified with Distinction
+- CGPA 8.21/10 Qualified with Distinction
 - Heriot-Watt University
 
 #### B.Tech. in Computer Engineering
-- CGPA 8.82/10
+- CGPA 8.82/10 Qualified with Distinction
 - Jamia Millia Islamia
 
 ## Research Publications and Projects
@@ -33,13 +34,11 @@
 
 ### _Completed:_
 
-#### ApplE: An Applied Ethics Ontology for Autonomous Moral Decision-making, A. Aijaz, R. Mutharaju, M. Kumar, (Under review at JAIR, AI and Society Track).
-
-#### Expected Moral Shortfall for Ethical Competence in Decision-making Models, A. Aijaz, R. Mutharaju, M. Kumar.
+#### [Expected Moral Shortfall for Ethical Competence in Decision-making Models](https://arxiv.org/abs/2602.13268), A. Aijaz, R. Mutharaju, M. Kumar.
 
 #### [Moral Compass: A Data-Driven Benchmark for Ethical Cognition in AI](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/9202.pdf), A. Aijaz, A. Batra, A. Bazaz, S. Srinivasan, R. Mutharaju, M, Kumar, (Accepted at IJCAI 2025).
 
-#### Contesting Artificial Moral Agents, A. Aijaz, (Accepted at the ACM CSCW 2024, Workshop on Contestability Along AI Value Chains).
+#### [Contesting Artificial Moral Agents](), A. Aijaz, (Accepted at the ACM CSCW 2024, Workshop on Contestability Along AI Value Chains).
 
 #### [Bridging Ethics and AI: A Path to Moral Machines](https://ojs.aaai.org/index.php/AIES/article/view/31892), A. Aijaz, (Accepted at AAAI/ACM AIES, 2024).
 
