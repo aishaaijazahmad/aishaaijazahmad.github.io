@@ -1,99 +1,283 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aisha Aijaz | Ethical AI</title>
+
+<style>
+
+/* ---------- VARIABLES ---------- */
+:root {
+    --bg: #ffffff;
+    --text: #111111;
+    --accent: #c9a54c;
+    --muted: #666;
+    --max-width: 900px;
+}
+
+[data-theme="dark"] {
+    --bg: #0f1115;
+    --text: #e6e6e6;
+    --muted: #aaa;
+    --accent: #d4af37;
+}
+
+/* ---------- GLOBAL ---------- */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Inter", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+}
+
+/* prevents header overlap when scrolling */
+section {
+    scroll-margin-top: 100px;
+}
+
+/* ---------- NAVBAR ---------- */
+header {
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    border-bottom: 1px solid rgba(200,170,80,0.2);
+    z-index: 1000;
+}
+
+nav {
+    max-width: var(--max-width);
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+nav h1 {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: var(--text);
+    font-size: 14px;
+}
+
+nav a:hover {
+    color: var(--accent);
+}
+
+#theme-toggle {
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* ---------- SECTIONS ---------- */
+.section {
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    max-width: var(--max-width);
+    margin: auto;
+    padding: 80px 20px;
+}
+
+/* ---------- TYPOGRAPHY ---------- */
+h2 {
+    font-weight: 500;
+    margin-bottom: 20px;
+    border-left: 4px solid var(--accent);
+    padding-left: 12px;
+}
+
+h3 {
+    margin-top: 30px;
+    font-weight: 500;
+}
+
+p {
+    color: var(--muted);
+}
+
+ul {
+    padding-left: 18px;
+}
+
+/* ---------- HERO ---------- */
+.hero h2 {
+    font-size: 32px;
+    border: none;
+    padding: 0;
+}
+
+.hero p {
+    font-size: 18px;
+    max-width: 700px;
+}
+
+/* ---------- LINKS ---------- */
+a {
+    color: var(--accent);
+}
+
+/* ---------- FOOTER ---------- */
+footer {
+    text-align: center;
+    padding: 40px;
+    color: var(--muted);
+}
+
+</style>
+</head>
+
 <body>
 
 <header>
-  <nav>
+<nav>
     <h1>Aisha Aijaz</h1>
     <ul>
-      <li><a href="#about">About</a></li>
-      <li><a href="#research">Research</a></li>
-      <li><a href="#publications">Publications</a></li>
-      <li><a href="#experience">Experience</a></li>
-      <li><a href="#awards">Awards</a></li>
-      <li><a href="#service">Service</a></li>
-      <li><a href="#contact">Contact</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#research">Research</a></li>
+        <li><a href="#publications">Publications</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#awards">Awards</a></li>
+        <li><a href="#service">Service</a></li>
+        <li><a href="#contact">Contact</a></li>
     </ul>
     <button id="theme-toggle">☾</button>
-  </nav>
+</nav>
 </header>
 
 <main>
-<a href="assets/AISHA AIJAZ_CV.pdf" class="cv-button">Download CV</a>
-  
-<section id="about">
-  ...
+
+<!-- HERO / ABOUT -->
+<section id="about" class="section">
+<div class="container hero">
+    <h2>PhD Researcher in Ethical AI</h2>
+    <p>
+        PhD candidate at IIIT Delhi working on ethical cognition in AI systems using
+        neurosymbolic approaches, knowledge representation, and moral decision-making frameworks.
+    </p>
+</div>
 </section>
 
-<section id="research">
-<h2>Research</h2>
+<!-- RESEARCH -->
+<section id="research" class="section">
+<div class="container">
+    <h2>Research</h2>
+    <p>
+        My work focuses on developing Artificial Moral Agents through structured knowledge,
+        ethical theory integration, and machine learning systems.
+    </p>
 
-        <p>
-            Focused on ethical cognition in AI systems through
-            neurosymbolic approaches, combining rule-based reasoning,
-            data-driven models, and algorithmic frameworks.
-        </p>
-
-        <h3>Key Directions</h3>
-        <ul>
-            <li>Artificial Moral Agents</li>
-            <li>Ethics Scoring Algorithms</li>
-            <li>Knowledge Graphs for moral reasoning</li>
-            <li>Ontology-driven ethical decision systems</li>
-        </ul>
+    <h3>Key Directions</h3>
+    <ul>
+        <li>Ethics Scoring Algorithm (ESA)</li>
+        <li>Context-Sensitive Thresholding (CST)</li>
+        <li>Moral Decision Knowledge Graphs</li>
+        <li>Neurosymbolic AI for ethical reasoning</li>
+    </ul>
+</div>
 </section>
 
-<section id="publications">
-<h3>Selected</h3>
-<ul>
-    <li><strong>Moral Compass</strong>, IJCAI 2025</li>
-    <li><strong>Bridging Ethics and AI</strong>, AIES 2024</li>
-    <li><strong>Ontology for Ethical Decision-Making</strong>, CODS-COMAD 2024</li>
-    <li><strong>Opacity & Ethics in Affective Computing</strong>, IEEE 2023</li>
-</ul>
+<!-- PUBLICATIONS -->
+<section id="publications" class="section">
+<div class="container">
+    <h2>Publications</h2>
 
-<h3>Ongoing Work</h3>
-<ul>
-    <li>Ethics Fine-tuning in Transformers</li>
-    <li>Expected Moral Shortfall</li>
-    <li>Value-Based Ontology Engineering</li>
-</ul>
+    <h3>Selected</h3>
+    <ul>
+        <li><strong>Moral Compass</strong> – IJCAI 2025</li>
+        <li><strong>Bridging Ethics and AI</strong> – AIES 2024</li>
+        <li><strong>Ontology for Ethical Decision-Making</strong> – CODS-COMAD 2024</li>
+        <li><strong>Ethics of Affective Computing</strong> – IEEE 2023</li>
+    </ul>
 
+    <h3>Ongoing</h3>
+    <ul>
+        <li>Ethics Fine-tuning in Transformers</li>
+        <li>Expected Moral Shortfall</li>
+    </ul>
+</div>
 </section>
 
-<section id="experience">
-<ul>
-<li>Visiting Intern, MBZUAI (2025)</li>
-<li>Intern, IIIT Bangalore (2024)</li>
-<li>Teaching Assistant, IIIT Delhi (2022–Present)</li>
-<li>Data Specialist, Gulf Researcher</li>
-<li>Data Analyst, VLCC Dubai</li>
-</ul>
+<!-- EXPERIENCE -->
+<section id="experience" class="section">
+<div class="container">
+    <h2>Experience</h2>
+    <ul>
+        <li>Visiting Intern, MBZUAI (2025)</li>
+        <li>Intern, IIIT Bangalore (2024)</li>
+        <li>Teaching Assistant, IIIT Delhi (2022–Present)</li>
+        <li>Data Specialist, Gulf Researcher</li>
+        <li>Data Analyst, VLCC Dubai</li>
+    </ul>
+</div>
 </section>
 
-<section id="awards">
-<ul>
-<li>IJCAI Travel Grant (2025)</li>
-<li>AAAI/ACM AIES Travel Grant (2024)</li>
-<li>Best Poster – WiDS 2024</li>
-<li>Anveshan Setu Fellow</li>
-</ul>
-
+<!-- AWARDS -->
+<section id="awards" class="section">
+<div class="container">
+    <h2>Awards</h2>
+    <ul>
+        <li>IJCAI Travel Grant (2025)</li>
+        <li>AAAI/ACM AIES Travel Grant (2024)</li>
+        <li>Best Poster – WiDS 2024</li>
+        <li>Anveshan Setu Fellow</li>
+    </ul>
+</div>
 </section>
 
-<section id="service">
-<ul>
-<li>Reviewer: AAAI, EACL, ICON</li>
-<li>PC Member: K-CAP, NeSy, WWW</li>
-<li>Invited Reviewer: DKE Journal</li>
-</ul>
+<!-- SERVICE -->
+<section id="service" class="section">
+<div class="container">
+    <h2>Academic Service</h2>
+    <ul>
+        <li>Reviewer: AAAI, EACL, ICON</li>
+        <li>PC Member: K-CAP, NeSy, WWW</li>
+        <li>Invited Reviewer: Data & Knowledge Engineering</li>
+    </ul>
+</div>
 </section>
 
-<section id="contact">
-<p>Email: aishaa@iiitd.ac.in</p>
-<p><a href="https://scholar.google.com">Google Scholar</a></p>
-<p><a href="https://github.com/aishaaijazahmad">GitHub</a></p>
-<p><a href="https://linkedin.com">LinkedIn</a></p>
+<!-- CONTACT -->
+<section id="contact" class="section">
+<div class="container">
+    <h2>Contact</h2>
+    <p>Email: aishaa@iiitd.ac.in</p>
+    <p><a href="#">Google Scholar</a></p>
+    <p><a href="#">GitHub</a></p>
+    <p><a href="#">LinkedIn</a></p>
+</div>
 </section>
 
 </main>
 
+<footer>
+    © 2026 Aisha Aijaz
+</footer>
+
+<script src="js/theme.js"></script>
+
 </body>
+</html>
