@@ -47,9 +47,9 @@ nav a:hover {
 }
 
 /* Sections */
-section {
+/*section {
     padding: 40px 60px;
-}
+}*/
 
 /* Headings */
 h1, h2, h3 {
@@ -64,3 +64,20 @@ h3 {
 html {
     scroll-behavior: smooth;
 }
+
+header {
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    z-index: 1000;
+    border-bottom: 1px solid rgba(200, 170, 80, 0.2);
+}
+
+section {
+    min-height: 100vh;
+    padding: 80px 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
