@@ -29,3 +29,24 @@ window.addEventListener("scroll", () => {
     }
   });
 });
+
+const icon = document.getElementById("icon");
+
+if (localStorage.getItem("theme") === "dark") {
+    document.documentElement.setAttribute("data-theme", "dark");
+    icon.textContent = "☀";
+}
+
+toggle.addEventListener("click", () => {
+    const current = document.documentElement.getAttribute("data-theme");
+
+    if (current === "dark") {
+        document.documentElement.setAttribute("data-theme", "light");
+        icon.textContent = "☾";
+        localStorage.setItem("theme", "light");
+    } else {
+        document.documentElement.setAttribute("data-theme", "dark");
+        icon.textContent = "☀";
+        localStorage.setItem("theme", "dark");
+    }
+});
