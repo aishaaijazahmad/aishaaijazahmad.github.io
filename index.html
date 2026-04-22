@@ -28,6 +28,10 @@
     --accent: #d4af37;
 }
 
+[data-theme="dark"] .section {
+    background: rgba(15,17,21,0.6);
+}
+
 /* ---------- GLOBAL ---------- */
 html {
     scroll-behavior: smooth;
@@ -101,7 +105,9 @@ nav a:hover {
 .section {
     min-height: 80vh;
     display: flex;
-    align-items: center;
+    align-items: center
+    background: rgba(255,255,255,0.6);
+    backdrop-filter: blur(6px);
 }
 
 .container {
