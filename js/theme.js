@@ -1,52 +1,24 @@
 const toggle = document.getElementById("theme-toggle");
-
-toggle.addEventListener("click", () => {
-    const current = document.body.getAttribute("data-theme");
-    if (current === "dark") {
-        document.body.setAttribute("data-theme", "light");
-    } else {
-        document.body.setAttribute("data-theme", "dark");
-    }
-});
-
-const sections = document.querySelectorAll("section");
-const navLinks = document.querySelectorAll("nav a");
-
-window.addEventListener("scroll", () => {
-  let current = "";
-
-  sections.forEach(section => {
-    const sectionTop = section.offsetTop;
-    if (scrollY >= sectionTop - 100) {
-      current = section.getAttribute("id");
-    }
-  });
-
-  navLinks.forEach(link => {
-    link.classList.remove("active");
-    if (link.getAttribute("href") === "#" + current) {
-      link.classList.add("active");
-    }
-  });
-});
-
 const icon = document.getElementById("icon");
 
-if (localStorage.getItem("theme") === "dark") {
-    document.documentElement.setAttribute("data-theme", "dark");
-    icon.textContent = "☀";
+// Load saved theme
+const savedTheme = localStorage.getItem("theme");
+
+if (savedTheme) {
+    document.documentElement.setAttribute("data-theme", savedTheme);
+    icon.textContent = savedTheme === "dark" ? "☀" : "☾";
+} else {
+    icon.textContent = "☾"; // default
 }
 
+// Toggle theme
 toggle.addEventListener("click", () => {
     const current = document.documentElement.getAttribute("data-theme");
 
-    if (current === "dark") {
-        document.documentElement.setAttribute("data-theme", "light");
-        icon.textContent = "☾";
-        localStorage.setItem("theme", "light");
-    } else {
-        document.documentElement.setAttribute("data-theme", "dark");
-        icon.textContent = "☀";
-        localStorage.setItem("theme", "dark");
-    }
+    const newTheme = current === "dark" ? "light" : "dark";
+
+    document.documentElement.setAttribute("data-theme", newTheme);
+    localStorage.setItem("theme", newTheme);
+
+    icon.textContent = newTheme === "dark" ? "☀" : "☾";
 });
