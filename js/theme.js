@@ -51,16 +51,31 @@ toggle.addEventListener("click", () => {
     }
 });
 
-const track = document.getElementById("slider-track");
-const left = document.querySelector(".arrow.left");
-const right = document.querySelector(".arrow.right");
+let slideIndex = 1;
+showSlides(slideIndex);
 
-const scrollAmount = 300;
+// Next/previous controls
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
 
-right.addEventListener("click", () => {
-    track.scrollBy({ left: scrollAmount, behavior: "smooth" });
-});
+// Thumbnail image controls
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
 
-left.addEventListener("click", () => {
-    track.scrollBy({ left: -scrollAmount, behavior: "smooth" });
-});
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+}
