@@ -142,6 +142,7 @@ h3 {
 
 p {
     color: var(--muted);
+    text-align: justify;
 }
 
 ul {
@@ -198,8 +199,11 @@ ul {
     }
 
     .container {
-        margin-left: 20px;
-        margin-right: 20px;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    p {
+        text-align: justify;
     }
 }
 /* ---------- LINKS ---------- */
