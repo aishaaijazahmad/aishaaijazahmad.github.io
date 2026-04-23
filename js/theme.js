@@ -50,3 +50,17 @@ toggle.addEventListener("click", () => {
         localStorage.setItem("theme", "dark");
     }
 });
+
+const track = document.getElementById("slider-track");
+const left = document.querySelector(".arrow.left");
+const right = document.querySelector(".arrow.right");
+
+const scrollAmount = 300;
+
+right.addEventListener("click", () => {
+    track.scrollBy({ left: scrollAmount, behavior: "smooth" });
+});
+
+left.addEventListener("click", () => {
+    track.scrollBy({ left: -scrollAmount, behavior: "smooth" });
+});
