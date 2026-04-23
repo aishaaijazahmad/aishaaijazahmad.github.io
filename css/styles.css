@@ -2,8 +2,8 @@
 :root {
     
     --bg: #ffffff;
-    --bg-gradient: radial-gradient(circle at 20% 20%, rgba(201,165,76,0.08), transparent 60%),
-                   radial-gradient(circle at 80% 0%, rgba(201,165,76,0.05), transparent 60%);
+    --bg-gradient: radial-gradient(circle at 20% 20%, rgba(201,165,76,0.15), transparent 60%),
+                   radial-gradient(circle at 80% 0%, rgba(201,165,76,0.20), transparent 60%);
     --text: #111111;
     --accent: #c9a54c;
     --muted: #666;
@@ -195,12 +195,13 @@ ul {
 @media (max-width: 768px) {
     .hero-flex {
         flex-direction: column;
-        text-align: left;
+        text-align: justify;
     }
 
     .hero-image img {
-        width: 180px;
-        height: auto;
+        width: 220px;
+        height: 260px;
+        padding: 10px;
     }
 
     .container {
@@ -226,6 +227,6 @@ a {
 /* ---------- FOOTER ---------- */
 footer {
     text-align: center;
-    padding: 40px;
+    padding: 20px;
     color: var(--muted);
 }
