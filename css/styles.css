@@ -108,6 +108,17 @@ nav a:hover {
     backdrop-filter: blur(6px);
 }
 
+.nav-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 18px;
+}
+
+.nav-icon {
+    width: 24px;
+    height: 24px;
+}
 .container {
     width: 100%;
     max-width: 1400px;
