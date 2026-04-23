@@ -187,6 +187,11 @@ ul {
     margin-bottom: 15px;
 }
 
+#experience {
+    display: flex;
+    gap: 40px;
+}
+
 @media (max-width: 768px) {
     .hero-flex {
         flex-direction: column;
@@ -204,6 +209,9 @@ ul {
     }
     p {
         text-align: justify;
+    }
+    #experience {
+        flex-direction: column;
     }
 }
 /* ---------- LINKS ---------- */
